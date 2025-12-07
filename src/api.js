@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://story-ux3k.onrender.com';
+const API_BASE_URL = 'https://story-app-backend-3f4s.onrender.com';
 
 // Create axios instance with base configuration
 const api = axios.create({
